@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.864"
+     inkscape:cx="11.126096"
+     inkscape:cy="11.589683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="2.1183634"
+       sodipodi:cy="2.1183634"
+       sodipodi:rx="2.1166668"
+       sodipodi:ry="2.1166668"
+       sodipodi:start="0.0061343857"
+       sodipodi:end="0.0061261057"
+       sodipodi:arc-type="slice"
+       d="M 4.2349903,2.1313477 A 2.1166668,2.1166668 0 0 1 2.1053834,4.2349904 2.1166668,2.1166668 0 0 1 0.00173636,2.1053878 2.1166668,2.1166668 0 0 1 2.1313346,0.00173633 2.1166668,2.1166668 0 0 1 4.2349905,2.1313302 L 2.1183634,2.1183634 Z" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.26373px;font-family:Arial;-inkscape-font-specification:'Arial Bold';opacity:1;fill:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:0;paint-order:stroke fill markers"
+       x="0.93868232"
+       y="3.3985546"
+       id="text2"
+       transform="scale(1.0538792,0.94887534)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:3.26373px;fill:#ffffff;stroke-width:0"
+         x="0.93868232"
+         y="3.3985546">D</tspan></text>
+  </g>
+</svg>
